@@ -1,9 +1,17 @@
 ## Olá, sou o Gustavo Sampaio.
-<div align="center">
-  <a href="https://github.com/Gtsampaio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gtsampaio&PAT_1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gtsampaio&layout=compact&langs_count=7&theme=highcontrast"/>
+<div align="center"><h3 align="left">GitHub Status</h3>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Gtsampaio&layout=compact&custom_title=Linguagens&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
 </div>
+
+<br><br>
+<br><br>
+<br><br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
